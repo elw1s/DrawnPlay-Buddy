@@ -1,6 +1,9 @@
 
 # DrawnPlay Buddy
 
+## Positioning
+Before running the program, adjust the robot's arms as follows.
+![WhatsApp Image 2024-01-05 at 09 47 52](https://github.com/elw1s/DrawnPlay-Buddy/assets/66280976/df8ca493-87e6-4a27-8094-4462ff3ff596)
 
 ## Deployment
 
@@ -27,9 +30,3 @@ Firstly, the program needs to be run on Raspberry Pi. Connect to Raspberry Pi us
 ```
 
 After running the program on the Raspberry Pi, you should hear the motors running. The servos will move to their initial positions and be calibrated.
-
-
-## Screenshots
-
-![WhatsApp Image 2024-01-05 at 09 47 52](https://github.com/elw1s/DrawnPlay-Buddy/assets/66280976/df8ca493-87e6-4a27-8094-4462ff3ff596)
-
