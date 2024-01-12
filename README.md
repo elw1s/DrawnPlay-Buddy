@@ -6,7 +6,7 @@
 
 ### a. Desktop Application
 
-To launch the Desktop Application, double-click on the executable file named "scara_gui" inside the "drawnplay_buddy" folder. The program has been tested on Ubuntu 22.04. Windows support is not available.
+To launch the Desktop Application, double-click on the executable file named "scara_gui" inside the "drawnplay_buddy" folder. The program has been tested on Ubuntu 22.04. Windows support is not available. Qt version 6.6.1 needs to be downloaded.
 
 In order to utilize the "Open Gazebo" feature, it is essential to have the latest Docker version installed on your computer. To run Gazebo Virtualization, execute the following command inside the "virtualization/docker" directory. The execution time may vary around 10 minutes depending on the hardware of your computer.
 
