@@ -1,0 +1,9 @@
+-rootPath
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui
+-cmake-output
+-output-file
+/home/ardakilic/Desktop/CSE396/GUI/build-scara_gui-Desktop_Qt_6_6_1_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_scara_gui.cmake
+-importPath
+/home/ardakilic/Desktop/CSE396/GUI/build-scara_gui-Desktop_Qt_6_6_1_GCC_64bit-Debug
+-importPath
+/home/ardakilic/Qt/6.6.1/gcc_64/./qml
