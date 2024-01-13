@@ -15,6 +15,8 @@ The graphical interface has been developed using Qt 6.6.1 on Ubuntu 22.04. Curre
 
 The most suitable method to run the program is to download the Qt Creator program, then open the project by selecting "Open Project" and choosing the "CMakeLists.txt" file (located in the folder where the source code is). Afterward, the program can be run with either the Debug or Release versions.
 
+[Download Qt](https://www.qt.io/download-qt-installer-oss?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4)
+
 In order to utilize the "Open Gazebo" feature, it is essential to have the latest Docker version installed on your computer. To run Gazebo Virtualization, execute the following command inside the "virtualization/docker" directory. The execution time may vary around 10 minutes depending on the hardware of your computer.
 
 ```bash
@@ -34,3 +36,7 @@ Firstly, the program needs to be run on Raspberry Pi. Connect to Raspberry Pi us
 ```
 
 After running the program on the Raspberry Pi, you should hear the motors running. The servos will move to their initial positions and be calibrated.
+
+## Usage
+
+After the embedded system is running, open either the Desktop or Mobile application. For the Desktop application, connect to the embedded system by entering the IP and Port in the Settings menu. Then, use the desired features of the applications to make the robot draw or play games. Have fun!
