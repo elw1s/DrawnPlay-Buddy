@@ -9,7 +9,11 @@ Before running the program, adjust the robot's arms as follows.
 
 ### a. Desktop Application
 
-To launch the Desktop Application, double-click on the executable file named "scara_gui" inside the "drawnplay_buddy" folder. The program has been tested on Ubuntu 22.04. Windows support is not available. Qt version 6.6.1 needs to be downloaded.
+The graphical interface has been developed using Qt 6.6.1 on Ubuntu 22.04. Currently, there is no .deb or AppImage creator available for the specified Qt version. A .deb project has been prepared using "cpack," but for it to run, Qt 6.6.1 needs to be installed on the computer.
+
+[Download for Ubuntu 22.04](https://drive.google.com/file/d/17MyQS3QuPF5W_aw8DlFgdDgftv5PlcJc/view?usp=sharing)
+
+The most suitable method to run the program is to download the Qt Creator program, then open the project by selecting "Open Project" and choosing the "CMakeLists.txt" file (located in the folder where the source code is). Afterward, the program can be run with either the Debug or Release versions.
 
 In order to utilize the "Open Gazebo" feature, it is essential to have the latest Docker version installed on your computer. To run Gazebo Virtualization, execute the following command inside the "virtualization/docker" directory. The execution time may vary around 10 minutes depending on the hardware of your computer.
 
