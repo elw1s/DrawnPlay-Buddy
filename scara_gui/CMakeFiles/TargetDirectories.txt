@@ -1,0 +1,11 @@
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/scara_gui.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/scara_gui_qmlimportscan.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/package.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/package_source.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/edit_cache.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/rebuild_cache.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/list_install_components.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/install.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/install/local.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/install/strip.dir
+/home/ardakilic/Desktop/CSE396/GUI/scara_gui/CMakeFiles/scara_gui_autogen.dir
