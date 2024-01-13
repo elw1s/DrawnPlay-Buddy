@@ -1,6 +1,8 @@
 
 # DrawnPlay Buddy
 
+A painter and gamer robot
+
 ## Positioning
 Before running the program, adjust the robot's arms as follows.
 ![WhatsApp Image 2024-01-05 at 09 47 52](https://github.com/elw1s/DrawnPlay-Buddy/assets/66280976/df8ca493-87e6-4a27-8094-4462ff3ff596)
