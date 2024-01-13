@@ -37,7 +37,7 @@ Firstly, the program needs to be run on Raspberry Pi. Connect to Raspberry Pi us
   cmake .. && make && clear && sudo ./server
 ```
 
-After running the program on the Raspberry Pi, you should hear the motors running. The servos will move to their initial positions and be calibrated.
+After running the program on the Raspberry Pi, you should hear the motors running. The servos will move to their initial positions and be calibrated. Then, you can close the VNC Viewer program.
 
 ## Usage
 
