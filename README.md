@@ -19,7 +19,7 @@ The most suitable method to run the program is to download the Qt Creator progra
 
 [Download Qt](https://www.qt.io/download-qt-installer-oss?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4)
 
-In order to utilize the "Open Gazebo" feature, it is essential to have the latest Docker version installed on your computer. To run Gazebo Virtualization, execute the following command inside the "virtualization/docker" directory. The execution time may vary around 10 minutes depending on the hardware of your computer.
+In order to utilize the "Open Gazebo" feature, it is essential to have the latest Docker version installed on your computer. To run Gazebo Virtualization, execute the following command inside the "brachiograph_ws/docker" directory. The execution time may vary around 10 minutes depending on the hardware of your computer.
 
 ```bash
   sudo ./build-and-run.sh
