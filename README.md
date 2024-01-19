@@ -5,7 +5,7 @@ A painter and gamer robot
 
 ## Positioning
 Before running the program, adjust the robot's arms as follows.
-![WhatsApp Image 2024-01-05 at 09 47 52](https://github.com/elw1s/DrawnPlay-Buddy/assets/66280976/df8ca493-87e6-4a27-8094-4462ff3ff596)
+![Positioning](https://github.com/elw1s/DrawnPlay-Buddy/assets/66280976/df8ca493-87e6-4a27-8094-4462ff3ff596)
 
 ## Deployment
 
@@ -19,7 +19,7 @@ The most suitable method to run the program is to download the Qt Creator progra
 
 [Download Qt](https://www.qt.io/download-qt-installer-oss?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4)
 
-In order to utilize the "Open Gazebo" feature, it is essential to have the latest Docker version installed on your computer. To run Gazebo Virtualization, execute the following command inside the "brachiograph_ws/docker" directory. The execution time may vary around 10 minutes depending on the hardware of your computer.
+In order to utilize the "Open Gazebo" feature, it is essential to have the latest Docker version installed on your computer. To run Gazebo Virtualization, execute the following command inside the `brachiograph_ws/docker` directory. The execution time may vary around 10 minutes depending on the hardware of your computer.
 
 ```bash
   sudo ./build-and-run.sh
@@ -31,7 +31,9 @@ The file with the .apk extension can be installed and run on the Android system.
 
 ### c. Embedded System
 
-Firstly, the program needs to be run on Raspberry Pi. Connect to Raspberry Pi using the VNC Viewer program. Then navigate to the "Desktop/CSE396/BrachioGraphWithServer" folder. Open the terminal and execute the following command.
+Firstly, the program needs to be run on Raspberry Pi. Connect to Raspberry Pi using the VNC Viewer program. Then navigate to the `BrachioGraphWithServer` folder. Open the terminal and execute the following command.
+
+NOTE: To test the graphical user interface (GUI) without the need for hardware, run the `simulate_embedded` project.
 
 ```bash
   cmake .. && make && clear && sudo ./server
